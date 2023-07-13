@@ -15,6 +15,7 @@ This repository contains Solidity contracts for a game and gaming store implemen
 
 ## Verification on Snowtrace Testnet
 The contracts have been verified and deployed on the Snowtrace Testnet with the following contract addresses:
+Please search on https://testnet.snowtrace.io/
 
 1. Game Contract: 0xA575BaCBf9AB3cb22AA773A4b4e53Bf2601D17F6
 2. GamingStore Contract: 0xc22052AFA28bf1671cC9e827243e9D3355f4277F
